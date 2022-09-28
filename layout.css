@@ -1,0 +1,54 @@
+
+span:hover{
+        text-decoration: underline;
+
+}
+
+#menu{
+   
+   float: right;
+   
+   width:60%;
+   margin: 0;
+   
+
+
+}
+h1{
+    
+    margin: 15% 0 0 30%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-style: oblique;
+}
+
+#new{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 5%;
+      margin-left: 23%;
+}
+
+
+
+#new2{
+     font-size: 1.5em;
+    margin-left: 47%;
+    
+    background-color: rgb(231, 195, 147);
+    width:6%
+    
+}
+
+#new2:hover{
+    color:aliceblue;
+    width:6%
+}
+
+img{
+   
+      padding-left: 10%;
+      padding-top: 5%;
+    width: 20%;
+}
